@@ -41,7 +41,7 @@ public class Login extends javax.swing.JFrame {
         jl_login.setHorizontalAlignment(javax.swing.SwingConstants.CENTER);
         jl_login.setHorizontalTextPosition(javax.swing.SwingConstants.CENTER);
 
-        jl_uno.setText("Usuario");
+        jl_uno.setText("Alumno");
 
         jl_dos.setText("Contraseña");
 
