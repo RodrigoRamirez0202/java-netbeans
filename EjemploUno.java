@@ -60,5 +60,5 @@ class Lamina extends JPanel {
     JButton invertir;
     JTextField texto;
     System.out.print("Esto es una prueba de git hub");
-System.out.print("Esto es una prueba de git hub");
+System.out.print("Esto es una prueba de git hub para probar los conflictos");
 }
