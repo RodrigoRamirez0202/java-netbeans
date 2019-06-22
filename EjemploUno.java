@@ -61,6 +61,6 @@ class Lamina extends JPanel {
     JTextField texto;
     System.out.print("Esto es una prueba de git hub");
 
-System.out.print("Esto es una prueba de git hub que nos permite comprobar conflicto");
-
+    System.out.print("Esto es una prueba de git hub que nos permite comprobar conflicto");
+    System.out.print("Linea para probar el trabajar en proyectos de terceros");
 }
